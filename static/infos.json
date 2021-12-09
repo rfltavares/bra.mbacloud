@@ -1,0 +1,94 @@
+[
+
+    {
+ 
+        "integrante": 1, 
+        "estado": "SP", 
+        "idade" : 30, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Goodbye", "estilo": "Internacional"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 2, 
+        "estado": "SP", 
+        "idade" : 30, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Numb", "estilo": "Rock"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 3, 
+        "estado": "SP", 
+        "idade" : 42, 
+        "pet" : "true", 
+        "music": [ 
+            {"name":"Portas", "estilo": "MPB"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 4, 
+        "estado": "SP", 
+        "idade" : 30, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Janelas", "estilo": "MPB"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 5, 
+        "estado": "SP", 
+        "idade" : 44, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Hello", "estilo": "Internacional"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 6, 
+        "estado": "SC", 
+        "idade" : 42, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Immigrant Song", "estilo": "Rock"}
+ 
+        ]
+ 
+    }
+
+    {
+ 
+        "integrante": 7, 
+        "estado": "ES", 
+        "idade" : 40, 
+        "pet" : "false", 
+        "music": [ 
+            {"name":"Last Caress", "estilo": "Rock"}
+ 
+        ]
+ 
+    }
+ 
+ ]
